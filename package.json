@@ -1,0 +1,15 @@
+{
+  "name": "ph",
+  "version": "1.0.0",
+  "description": "Sharable podcast highlights.",
+  "main": "index.js",
+  "repository": "https://github.com/fabe/ph",
+  "author": "Fabian Schultz (desk@fabianschultz.com)",
+  "license": "MIT",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "node-webshot": "^1.0.2",
+    "phantomjs": "^2.1.7",
+    "unescape": "^1.0.1"
+  }
+}
